@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain-huggingface
+langchain-community
+faiss-cpu
+langchain-core
+torch
+torchvision --index-url https://download.pytorch.org/whl/cpu
